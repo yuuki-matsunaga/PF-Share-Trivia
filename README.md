@@ -42,5 +42,3 @@ https://docs.google.com/spreadsheets/d/1_RNMiD-R8NiVMqKVUeJIScXB8gdNIx3wSU28b1Qj
 - フレームワーク：Ruby on Rails
 - JS ライブラリ：jQuery
 - IDE：Cloud9
-# PF-Share-Trivia
-# PF-Share-Trivia
